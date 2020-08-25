@@ -5,3 +5,8 @@ Line 2
 Line 3
 
 change 2 by user 2
+
+class my class()
+{
+print hello
+}
